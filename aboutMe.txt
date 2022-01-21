@@ -1,0 +1,8 @@
+My name is Taran Dmitro and I'm a graduate of Saint Petersburg State University.
+I've been writing JavaScript for many years, moving from building web apps with jQuery to React/Vue. 
+Today I mainly work on Blockchain development, which I began learning in early 2015.
+While I specialize in the backend/frontend, I spend a good chunk of my time writing smart contract, web3js, and node/react projects. 
+My Github profile https://github.com/gdevworld shows some of the projects I've worked on. 
+I work well in a team environment or alone unsupervised as required. 
+Whatever you need, I can deliver.
+Thank you.
